@@ -1,2 +1,27 @@
 # Sarnia Plumbing
-HVAC services in Ontario.
+
+> Sarnia Plumbing is a local HVAC company serving Sarnia, Lambton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (226) 778-1469  |  Email: contact@sarniaplumbing.ca  |  Website: https://sarniaplumbing.ca
+
+Service areas: Bright's Grove
+
+## Key pages
+
+- [Home](https://sarniaplumbing.ca/): Sarnia Plumbing homepage with service overview and FAQ
+- [About](https://sarniaplumbing.ca/about/): About the company and service area
+- [Contact](https://sarniaplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://sarniaplumbing.ca/services/water-heaters/): Water Heaters in Sarnia, Ontario
+- [Drain Cleaning](https://sarniaplumbing.ca/services/drain-cleaning/): Drain Cleaning in Sarnia, Ontario
+- [Repiping](https://sarniaplumbing.ca/services/repiping/): Repiping in Sarnia, Ontario
+- [Fixtures & Toilets](https://sarniaplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Sarnia, Ontario
+- [Leak Detection & Repair](https://sarniaplumbing.ca/services/leak-detection/): Leak Detection & Repair in Sarnia, Ontario
+- [Sump Pumps & Backwater](https://sarniaplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Sarnia, Ontario
+- [Water Softeners & Filtration](https://sarniaplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Sarnia, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Sarnia are answered on the homepage.
